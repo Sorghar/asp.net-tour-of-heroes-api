@@ -1,0 +1,14 @@
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+D:\Sefis\DEVEL\SourceCode\Upgrader\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb

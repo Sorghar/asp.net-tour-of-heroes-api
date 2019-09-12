@@ -1,0 +1,14 @@
+d:\KrosWEB\TourOfHeroesApi\TodoApi\bin\Debug\netcoreapp2.2\TourOfHeroesApi.deps.json
+d:\KrosWEB\TourOfHeroesApi\TodoApi\bin\Debug\netcoreapp2.2\TourOfHeroesApi.runtimeconfig.json
+d:\KrosWEB\TourOfHeroesApi\TodoApi\bin\Debug\netcoreapp2.2\TourOfHeroesApi.runtimeconfig.dev.json
+d:\KrosWEB\TourOfHeroesApi\TodoApi\bin\Debug\netcoreapp2.2\TourOfHeroesApi.dll
+d:\KrosWEB\TourOfHeroesApi\TodoApi\bin\Debug\netcoreapp2.2\TourOfHeroesApi.pdb
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.csprojAssemblyReference.cache
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.csproj.CoreCompileInputs.cache
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.RazorAssemblyInfo.cache
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.RazorAssemblyInfo.cs
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.AssemblyInfoInputs.cache
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.AssemblyInfo.cs
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.RazorTargetAssemblyInfo.cache
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.dll
+d:\KrosWEB\TourOfHeroesApi\TodoApi\obj\Debug\netcoreapp2.2\TourOfHeroesApi.pdb
